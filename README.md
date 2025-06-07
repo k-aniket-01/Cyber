@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tek-in-A
+- 👋 Hi, I’m Aniket Khomane 
 - 👀 I’m interested in ... Ethical Hacking, bug bounty, penetrations testing 
 - 🌱 I’m currently learning ... programming language & computer science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://instagram.com/k_aniket_01?igshid=YmMyMTA2M2Y=
+- 📫 How to reach me ...https://instagram.com/k_aniket_01
 
 <!---
 Tek-in-A/Tek-in-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
